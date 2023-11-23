@@ -1,0 +1,28 @@
+/* modificando o css para fazer testes */
+/* com o Git - Githb */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: chocolate;
+}
+
+p {
+    font-size: 22px;
+    font-weight: bold;
+    color: coral;
+}
+
+.special {
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFFFFF;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: chocolate;
+}
